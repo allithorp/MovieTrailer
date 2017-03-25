@@ -25,8 +25,7 @@ Make sure Python is installed.
 Download the project zip file and unzip.
     -OR-
 Clone the repository
-    $ git clone
-    $ cd 
+    $ git clone https://github.com/allithorp/MovieTrailer.git
 
 Execute the program
     Open terminal and run:
